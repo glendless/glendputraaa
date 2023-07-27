@@ -55,7 +55,7 @@ export const info = {
     dribbble: "https://dribbble.com/glendless",
     twitter: "https://twitter.com/glendless",
     github: "https://github.com/glendless",
-    email: "glendputraaa@gmail.com",
+    email: "mailto:glendputraaa@gmail.com",
     linkedin: "https://www.linkedin.com/in/glend-putra-a855b4b5/",
   },
 
